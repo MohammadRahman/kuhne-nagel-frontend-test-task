@@ -1,0 +1,18 @@
+[
+    {
+        "label": "all",
+        "value": "all"
+},
+    {
+        "label": "In Transit",
+        "value": "intransit"
+},
+    {
+        "label": "Delivered",
+        "value": "delivered"
+},
+    {
+        "label": "Shipped",
+        "value": "shipped"
+}
+]
